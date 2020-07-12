@@ -1,4 +1,4 @@
-### DeVeLoPeR
+# Careless but funny programmer😅
 
 ᴘʏᴛʜᴏɴ
 ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
