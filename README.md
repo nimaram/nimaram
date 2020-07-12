@@ -12,4 +12,3 @@
 <h3>🌃every twice week we have a new project with Django or go or ...</h3>
 <h3>🤔I'm thinking a new way to change world of web programming</h3>
 
-- [x] learn go
