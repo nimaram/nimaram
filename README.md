@@ -1,4 +1,4 @@
-# 💎Legendary programmer💎
+# A normal programmer
 
 ᴘʏᴛʜᴏɴ
 ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
