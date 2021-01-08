@@ -12,3 +12,4 @@
 <h3>🌃every twice week we have a new project with Django or go or ...</h3>
 <h3>🤔I'm thinking a new way to change world of web programming</h3>
 
+[![Nima Aram's github stats](https://github-readme-stats.vercel.app/api?username=NimaAram1)](https://github.com/NimaAram1/github-readme-stats)
