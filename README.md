@@ -14,4 +14,4 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimaAram1&show_icons=true&theme=tokyonight&count_private=true" alt="Nima's github stats" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaAram1&theme=tokyonight&layout=compact" alt="Nima's github top languages" />
-<img height="180em" src="https://s17.picofile.com/file/8420604742/github.png" style="border: 2em solid #628FDA!important;">
+
