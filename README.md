@@ -12,4 +12,5 @@
 <h3>🌃every twice week we have a new project with Django or go or ...</h3>
 <h3>🤔I'm thinking a new way to change world of web programming</h3>
 
-[![Nima Aram's github stats](https://github-readme-stats.vercel.app/api?username=NimaAram1)](https://github.com/NimaAram1/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimaAram1&show_icons=true&theme=merko&count_private=true" alt="Nima's github stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaAram1&theme=merko&layout=compact" alt="Nima's github top languages" />
