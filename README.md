@@ -32,8 +32,6 @@
 &nbsp;
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 &nbsp;
-<a href="https://twitter.com/nimbit_nima"><img alt="Twitter" src="https://img.shields.io/badge/nimbit_nima%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-&nbsp;
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
