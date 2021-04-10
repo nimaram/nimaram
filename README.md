@@ -1,6 +1,9 @@
-# Nima Aram
+# Nim Bit ;)
  <h2>Who am i?</h2>
- <p></p>
+ <p>I'm a junior backend developer at this time, but I experienced with VueJs3 and Js too at the whole of these 3 past months,<br>
+    I love creating backend services with the beauty of the frontend.At this time , I'm High school student(Mathematics and Physics)<br>
+    I live in Tehran(Iran) and I who still waiting for being a senior full-stack developer at a nice university</p>
+<h2>Funny Facts:</h2>    
 <h2>Some of My favorite languages and technologies❤</h2>
 <div style="display:flex;padding:1em">
 <h3> Pull requests are welcome 😉</h3>
