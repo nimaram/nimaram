@@ -1,4 +1,4 @@
-# Nim Bit ;)
+# Nim Bit ;)  <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
  <h2>Who am i?</h2>
  <p>I'm a junior backend developer at this time, but I experienced with VueJs3 and Js too at the whole of these 3 past months,<br>
     I love creating backend services with the beauty of the frontend.At this time , I'm High school student(Mathematics and Physics)<br>
