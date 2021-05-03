@@ -35,7 +35,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 <!--START_SECTION:waka-->
-[Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<img src="http://img.shields.io/badge/Profile%20Views-0-blue">
 
 **🐱 My Github Data** 
 
