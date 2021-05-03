@@ -35,6 +35,78 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 75 Contributions in the Year 2021
+ > 
+> 📦 157.8 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+🌆 Daytime    42 commits     ██████████░░░░░░░░░░░░░░░   41.18% 
+🌃 Evening    56 commits     █████████████░░░░░░░░░░░░   54.9% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
+Tuesday      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Wednesday    12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Thursday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+Friday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+Saturday     10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Sunday       21 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            █████████████████░░░░░░░░   71.43% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/NimaAram1/NimaAram1/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
