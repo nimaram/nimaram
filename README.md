@@ -70,7 +70,7 @@ VS Code                  3 hrs 54 mins       ███████████�
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
-<a href="mailto:aramnima50@gmail.com"><img src="https://img.shields.io/badge/ARAMNIMA50@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;<a href="https://twitter.com/nimbit_nima"><img alt="Twitter" src="https://img.shields.io/badge/nimbit_nima%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:aramnima50@gmail.com"><img src="https://img.shields.io/badge/ARAMNIMA50@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
  &nbsp
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimaAram1&show_icons=true&theme=tokyonight&count_private=true" alt="Nima's github stats" />
