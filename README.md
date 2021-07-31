@@ -70,7 +70,8 @@ VS Code                  4 hrs 40 mins       ███████████�
 <h2>Contact to me</h2>
 <div style="display:flex">
 <a href="mailto:aramnima50@gmail.com"><img src="https://img.shields.io/badge/ARAMNIMA50@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- </div>
+ <a href="https://www.linkedin.com/in/nima-aram-6579a2218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</div>
  &nbsp
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimaAram1&show_icons=true&theme=tokyonight&count_private=true" alt="Nima's github stats" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaAram1&theme=tokyonight&layout=compact" alt="Nima's github top languages" />
