@@ -53,16 +53,15 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Markdown                 53 mins             ████████████████████░░░░░   82.89% 
-TOML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
