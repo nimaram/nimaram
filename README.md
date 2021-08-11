@@ -63,7 +63,7 @@ VS Code                  18 mins             ███████████�
 ```
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
