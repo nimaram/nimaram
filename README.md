@@ -62,7 +62,7 @@ VS Code                  0 secs              ███████████�
 ```
 
 
- Last Updated on 16/03/2022 18:42:26 UTC
+ Last Updated on 17/03/2022 19:25:08 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
