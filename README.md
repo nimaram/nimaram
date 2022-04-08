@@ -53,15 +53,15 @@
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-Python                   54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/04/2022 18:43:51 UTC
+ Last Updated on 08/04/2022 18:44:45 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
