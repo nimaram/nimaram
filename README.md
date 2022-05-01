@@ -61,7 +61,7 @@ VS Code                  1 hr 6 mins         ███████████�
 ```
 
 
- Last Updated on 30/04/2022 18:43:37 UTC
+ Last Updated on 01/05/2022 18:43:17 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
