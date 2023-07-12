@@ -54,14 +54,16 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   26 mins             ██████████████░░░░░░░░░░░   55.61 % 
+Git Config               13 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  48 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2023 18:37:14 UTC
+ Last Updated on 12/07/2023 18:37:30 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
