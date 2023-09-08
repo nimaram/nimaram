@@ -54,14 +54,16 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   8 mins              ████████████░░░░░░░░░░░░░   48.43 % 
+YAML                     8 mins              ████████████░░░░░░░░░░░░░   46.89 % 
+Ezhil                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/09/2023 18:33:08 UTC
+ Last Updated on 08/09/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
