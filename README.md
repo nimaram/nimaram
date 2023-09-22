@@ -2,12 +2,7 @@
  <h2>Who am i?</h2>
  <p>I'm a junior backend developer at this time, but I experienced with VueJs3 and Js too at the whole of these 3 past months,<br>
     I love creating backend services with the beauty of the frontend.</p>
-<h2>Interesting Facts:</h2>
-<ul>
-<li>The first code I'd written<br>
- <p>The first code I'd written is a basic program that said <a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">hello world</a> with <a href="https://en.wikipedia.org/wiki/Pascal_(programming_language)">Pascal</a> Programming language</p>
- </li>
- </ul>
+
 <h2> My favorite languages and technologies❤</h2>
 <div style="display:flex;padding:1em">
 
