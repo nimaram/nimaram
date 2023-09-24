@@ -1,7 +1,4 @@
 
- <h2>Who am i?</h2>
- <p>I'm a junior backend developer at this time, but I experienced with VueJs3 and Js too at the whole of these 3 past months,<br>
-    I love creating backend services with the beauty of the frontend.</p>
 
 <h2> My favorite languages and technologies❤</h2>
 <div style="display:flex;padding:1em">
