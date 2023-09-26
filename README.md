@@ -69,11 +69,9 @@ VS Code                  1 hr 10 mins        ███████████�
 <a href="mailto:aramnima50@gmail.com"><img src="https://img.shields.io/badge/ARAMNIMA50@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/nima-aram-6579a2218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
- &nbsp
-  &nbsp
+<br>
 <a href="http://www.github.com/nimaram"><img src="https://github-readme-stats.vercel.app/api?username=nimaram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nimaram's GitHub stats" /></a>
 
-<a href="http://www.github.com/nimaram"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimaram&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <h3>About My Repositories:</h3>
 <h4> Pull requests are welcome 😉</h4>
