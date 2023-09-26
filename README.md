@@ -70,7 +70,10 @@ VS Code                  1 hr 10 mins        ███████████�
  <a href="https://www.linkedin.com/in/nima-aram-6579a2218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
  &nbsp
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimaAram1&show_icons=true&theme=tokyonight&count_private=true" alt="Nima's github stats" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimaAram1&theme=tokyonight&layout=compact" alt="Nima's github top languages" />
+<a href="http://www.github.com/nimaram"><img src="https://github-readme-stats.vercel.app/api?username=nimaram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nimaram's GitHub stats" /></a>
+
+<a href="http://www.github.com/nimaram"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimaram&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/nimaram" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaram&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <h3>About My Repositories:</h3>
 <h4> Pull requests are welcome 😉</h4>
