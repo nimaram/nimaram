@@ -34,7 +34,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2042%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -61,7 +61,7 @@ VS Code                  4 hrs 13 mins       ███████████�
 ```
 
 
- Last Updated on 18/10/2023 18:35:23 UTC
+ Last Updated on 19/10/2023 18:34:21 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
