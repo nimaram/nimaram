@@ -34,8 +34,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2024%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -52,14 +50,14 @@
 🕑︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/11/2023 18:32:58 UTC
+ Last Updated on 22/11/2023 18:34:00 UTC
 <!--END_SECTION:waka-->
 <h2>Contact to me</h2>
 <div style="display:flex">
